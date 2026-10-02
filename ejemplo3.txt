@@ -1,3 +1,4 @@
 Esto es otra prueba despues de la borrada
 ahora esto lo he estado agregando desde nano para cual es la diferencia
 estoy agregando informacion desde la terminal con el signo mayor
+este texto es agregado nuevamente pero desde nano, para ver las diferencias de como agregar textos
